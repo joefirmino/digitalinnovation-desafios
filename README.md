@@ -1,2 +1,2 @@
 # dio-desafios-javascritpt
-repositorio com os desafio do site web.digitalinnovation.one
+## Repositório com os desafios em Programação JavaScript do site web.digitalinnovation.one

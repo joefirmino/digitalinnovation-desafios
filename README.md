@@ -1,2 +1,2 @@
-# desafios-Digitalinnovation
-## Repositório com os desafios em Programação JavaScript do site web.digitalinnovation.one
+# Digitalinnovation
+## Repositório com os desafios de Programação do site web.digitalinnovation.one

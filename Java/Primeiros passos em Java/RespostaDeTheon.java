@@ -15,7 +15,7 @@ public class RespostaDeTheon {
 				menor = T;
 			} else if ((pMenor == 0) && (N >= 1) && (N <= 100) && (T >= 0) && (T <= 20)) {
         pMenor = i;
-				menor = T;
+			    menor = T;
 			}
 		}
 		System.out.println(pMenor);

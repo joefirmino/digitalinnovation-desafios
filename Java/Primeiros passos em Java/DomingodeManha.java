@@ -15,7 +15,7 @@ public class Domingo {
   		if (hora >= 7) {
   		  atraso = 60 * (hora - 7) + min;
   		}
-  		
+  		 
   		System.out.println("Atraso maximo: " + atraso);
   	}
   	leitor.close();
